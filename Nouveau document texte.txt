@@ -1,0 +1,9 @@
+git init
+git config --global user.name 'Hibatouallah'
+git config --global user.email 'boulsane.1996@gmail.com'
+git add nomficher
+git add nomdossier.
+git rm --cached nomfichier
+git rm -r --cached.
+
+
